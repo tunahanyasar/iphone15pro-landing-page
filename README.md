@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # :iphone: Landing Page | iPhone 15 Pro
 
 [🇹🇷 Click for Turkish README](./README.tr.md)
