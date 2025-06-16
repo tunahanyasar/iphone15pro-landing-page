@@ -12,7 +12,7 @@
 
 ## 🌐 Canlı Demo
 
-Canlı siteyi ziyaret edin: [iPhone 15 Pro Landing Page](https://iphone15pro-landing-page.vercel.app/)
+Canlı siteyi ziyaret edin: [iPhone 15 Pro Landing Page](https://iphone15pro-landing-page-ten.vercel.app/)
 
 ---
 

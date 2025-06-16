@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-Visit the live site: [iPhone 15 Pro Landing Page](https://iphone15pro-landing-page.vercel.app/)
+Visit the live site: [iPhone 15 Pro Landing Page](https://iphone15pro-landing-page-ten.vercel.app/)
 
 ---
 
