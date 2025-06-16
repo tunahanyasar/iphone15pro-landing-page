@@ -1,0 +1,7 @@
+#photos .photo img{
+    width: 100%;
+    display: block;
+    height: auto;
+    object-fit: fill;
+    aspect-ratio: 1;
+}
