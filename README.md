@@ -112,6 +112,5 @@ cd iphone15pro-landing-page
 
 * GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
 * LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
-=======
-8. Hafta projesi için ön hazırlık.
->>>>>>> 7f3d42e7fbe863b903f65ed34344ceaba64deccf
+
+
